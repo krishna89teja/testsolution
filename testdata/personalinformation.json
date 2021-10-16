@@ -1,0 +1,30 @@
+{
+    "personal_info":{
+    "FirstName": "virat",
+    "LastName": "kohli",
+    "Email": "virat.kohli@cricinfo.com",
+    "Password": "vk123",
+    "address_firstname": "virat",
+    "address_lastname": "kohli",
+    "Address": "102,201,florida",
+    "City": "Florida",
+    "Zip": "10212",
+    "homephone": "088188189",
+    "mobilephone": "2222222222",
+    "aliasaddress": "United States"
+    },
+    "address":{
+        "Title": "Mr.",
+        "DateOfBirth": "7/December/1999",
+        "Country": "United States",
+        "State": "Florida"
+    },
+    "loggedinInfo":{
+        "regemail": "user1@user.com",
+        "regpass": "user123"
+    },
+    "productinfo":{
+        "category": "t-shirts",
+        "productname": "Faded Short Sleeve T-shirts"
+    }
+}
